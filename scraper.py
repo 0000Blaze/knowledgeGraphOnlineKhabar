@@ -56,6 +56,6 @@ records = pd.DataFrame({
 })
 
 #convert pandas dataframe to csv file
-records.to_csv('data.csv')
+records.to_csv('data.csv',index=False)
 print("Records retrived and save as data.csv")
 
