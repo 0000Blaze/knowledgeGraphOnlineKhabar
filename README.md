@@ -1,7 +1,7 @@
 # knowledgeGraphOnlineKhabar
 	
 ## Acknowledgement:
-	This task was performed for educational purposes and learning about knowledge graphs.It was assigned by treeleaf.ai
+	This task was performed for educational purposes and learning about knowledge graphs.
 	
 ## Steps performed: 
 	Extracting news articles , performing necessary nlp pre processing , entity and realationship extraction and knowledge graph building for question answering
